@@ -4,6 +4,7 @@
 
 1. [baekjoon 코드 정리](https://github.com/ChoSooBeen/ProgramSolve)
 2. [programmers 코드 정리](https://github.com/ChoSooBeen/Programmer_school)
+3. [git-intellij 코드](https://github.com/ChoSooBeen/algorithm)
 
 ---
 **JAVA** 사용 문법   
