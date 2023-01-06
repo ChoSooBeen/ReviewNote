@@ -1,6 +1,6 @@
-# ReviewNote
+# :notebook_with_decorative_cover: ReviewNote
 
-프로그래밍 문제 풀이
+:curly_loop:프로그래밍 문제 풀이:curly_loop:
 
 1. [baekjoon 코드 정리](https://github.com/ChoSooBeen/ProgramSolve)
 2. [programmers 코드 정리](https://github.com/ChoSooBeen/Programmer_school)
