@@ -14,3 +14,4 @@
   + [StringBuilder](https://github.com/ChoSooBeen/ReviewNote/blob/main/%EB%B0%B1%EC%A4%80/11650.md)
 + [Comparator를 사용하여 2차원 배열 정렬해보기](https://github.com/ChoSooBeen/ReviewNote/blob/main/%EB%B0%B1%EC%A4%80/10814.md)    
   + [lamda식 사용](https://github.com/ChoSooBeen/ReviewNote/blob/main/%EB%B0%B1%EC%A4%80/11650.md)
++ [Collections.frequency()](https://github.com/ChoSooBeen/ReviewNote/blob/main/백준/10816.md)
